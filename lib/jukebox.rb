@@ -1,6 +1,6 @@
 # Add your code here
-def CLI_jukebox
-  
+def help
+  puts   
 end
 
   
