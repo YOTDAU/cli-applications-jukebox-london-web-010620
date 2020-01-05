@@ -1,8 +1,6 @@
 # Add your code here
-def help_method
+def CLI_jukebox
   
-
-
 end
 
   
