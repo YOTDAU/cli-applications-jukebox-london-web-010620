@@ -49,7 +49,7 @@ def run(song)
     case command 
     when "help"
       help
-    when "list"
+    when 'list'
       list(songs)
     when "play"
       play(songs)
