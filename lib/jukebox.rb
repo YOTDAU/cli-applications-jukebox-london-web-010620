@@ -7,4 +7,10 @@ def help
   puts "- exit : exits this program" 
 end
 
-  
+def list(songs)
+  songs.each do |song, i|
+    puts "#{i + 1}. #{song}"
+  end
+end
+
+def play 
