@@ -8,7 +8,8 @@ def help
 end
 
 def list(songs)
-  songs.each do |song, i|
-    puts "#{i + 1}. #{song}"
+  songs.each do |track, i|
+    puts "#{i + 1}. #{track}"
   end
 end
+
